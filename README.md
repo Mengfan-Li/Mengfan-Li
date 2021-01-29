@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![](https://visitor-badge.glitch.me/badge?page_id=Mengfan-Li.readme)
+
+![info](https://github-readme-stats.vercel.app/api?username=Mengfan-Li&show_icons=true&count_private=true&hide=prs&theme=default_repocard)
+
