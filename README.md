@@ -11,10 +11,7 @@ Here are some ideas to get you started:
       --->Publication:Research on the Detection Method of Breast Cancer Deep Convolutional Neural Network Based on
 Computer Aid 
 2021 International Conference on Medical Imaging, Sanitation and Biological Pharmacy 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-I am going to apply for a Ph.D. who will be admitted after March 2022
--->
+
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Mengfan-Li&show_icons=true&count_private=true&hide=prs&theme=highcontrast">
 
