@@ -14,11 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mengfan-Li&show_icons=true">
 
 ![](https://visitor-badge.glitch.me/badge?page_id=Mengfan-Li.readme)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Mengfan-Li&show_icons=true&count_private=true&hide=prs&theme=highcontrast">
 
-![info](https://github-readme-stats.vercel.app/api?username=Mengfan-Li&show_icons=true&count_private=true&hide=prs&theme=highcontrast)
+
+
 
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Pycharm-000000?style=flat-square&logo=Pychram&logoColor=ffffff)](https://www.jetbrains.com/)
