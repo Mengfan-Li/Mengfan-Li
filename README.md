@@ -2,8 +2,8 @@
 ### 🔭 I’m currently working on medical image analysis
 - 🌱 Nipple Detection in Mammogram Using a New Convolutional Neural Network Architecture(completed)
 - 👯 Using deep learning to detect breast cancer(Ongoing)
--Publication：Research on the Detection Method of Breast Cancer Deep Convolutional Neural Network Based on Computer Aid 
--2021 International Conference on Medical Imaging, Sanitation and Biological Pharmacy 
+- Publication：Research on the Detection Method of Breast Cancer Deep Convolutional Neural Network Based on Computer Aid 
+- International Conference on Medical Imaging, Sanitation and Biological Pharmacy 2021
 
 
 <!--
