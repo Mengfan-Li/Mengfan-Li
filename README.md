@@ -5,7 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭I’m currently working on medical image analysis
+--->Nipple Detection in Mammogram Using a New Convolutional Neural Network Architecture (completed)
+--->Breast cancer detection
+      --->Publication:Research on the Detection Method of Breast Cancer Deep Convolutional Neural Network Based on
+Computer Aid 
+2021 International Conference on Medical Imaging, Sanitation and Biological Pharmacy 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -15,11 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://visitor-badge.glitch.me/badge?page_id=Mengfan-Li.readme)
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Mengfan-Li&show_icons=true&count_private=true&hide=prs&theme=highcontrast">
-
-
-
 
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Pycharm-000000?style=flat-square&logo=Pychram&logoColor=ffffff)](https://www.jetbrains.com/)
