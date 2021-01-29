@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭I’m currently working on medical image analysis
+I’m currently working on medical image analysis
 --->Nipple Detection in Mammogram Using a New Convolutional Neural Network Architecture (completed)
 --->Breast cancer detection
       --->Publication:Research on the Detection Method of Breast Cancer Deep Convolutional Neural Network Based on
