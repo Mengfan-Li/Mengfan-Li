@@ -9,13 +9,13 @@
 
 ## Hi there 👋
 
-- 🔭 I am Mengfan Li (李梦凡), a PhD candidate at Academy of Military Medical Sciences, supervised by Prof. Dongshe Zhao (赵东升), co-advised by Prof. Xiaochen Bo (伯晓晨).
+- :rocket: I am Mengfan Li (李梦凡), a PhD candidate at Academy of Military Medical Sciences, supervised by Prof. Dongshe Zhao (赵东升), co-advised by Prof. Xiaochen Bo (伯晓晨).
+- :mailbox: If you have any questions, don't hesitate to contact me directly by email!
+
+
+## Interest & Skill
+
 - ⚡ I am currently working on using artificial intelligence techniques to solve bioinformatics problems.
-
-
-- 🌱 Nipple Detection in Mammogram Using a New Convolutional Neural Network Architecture(completed)
-- 👯 Using deep learning to detect breast cancer(Ongoing)
-- 😄 Publication：Research on the Detection Method of Breast Cancer Deep Convolutional Neural Network Based on Computer Aid (MISBP 2021)
 
 
 
