@@ -28,6 +28,7 @@
 
 <a href="https://github.com/Mengfan-Li/Mengfan-Li">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mengfan-Li&langs_count=10&layout=compact&exclude_repo=Mengfan--Li.github.io&theme=swift" alt="Mengfan-Li's GitHub Stats" /></a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mengfan-Li)](https://github.com/Mengfan-Li/github-readme-stats)
 
 <!--
 Here are some ideas to get you started:
