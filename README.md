@@ -25,9 +25,6 @@
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://markdown.com.cn/)
 [![](https://img.shields.io/badge/-Pycharm-228B22?style=flat-square&logo=Pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
 
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)
-
 
 ## Stats :star2:
 <a href="https://github.com/Mengfan-Li/Mengfan-Li">
