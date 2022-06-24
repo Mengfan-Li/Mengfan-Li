@@ -21,6 +21,7 @@
 [![](https://img.shields.io/badge/-Pycharm-228B22?style=flat-square&logo=Pychram&logoColor=ffffff)](https://www.jetbrains.com/zh-cn/pycharm/)
 [![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=ffffff)](https://pytorch.org/)
 [![](https://img.shields.io/badge/-jupyter-F37626?style=flat-square&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
+[![](https://img.shields.io/badge/-LaTEX-008B8B?style=flat-square&logo=LaTeX&logoColor=ffffff)](https://www.latex-project.org/)
 
 
 
