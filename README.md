@@ -26,10 +26,11 @@
 [![](https://img.shields.io/badge/-Pycharm-228B22?style=flat-square&logo=Pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
 
 
+<a href="https://github.com/Mengfan-Li/Mengfan-Li">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mengfan-Li&langs_count=10&layout=compact&exclude_repo=Mengfan--Li.github.io&theme=swift" alt="Mengfan-Li's GitHub Stats" /></a>
+
 <!--
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -39,16 +40,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-
-
-
-[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-Pycharm-000000?style=flat-square&logo=Pychram&logoColor=ffffff)](https://www.jetbrains.com/)
-[![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=ffffff)](https://pytorch.org/)
-[![](https://img.shields.io/badge/-jupyter-F37626?style=flat-square&logo=jupyter&logoColor=ffffff)](https://jupyter.org/)
-
-
 
 
