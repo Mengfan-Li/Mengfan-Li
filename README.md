@@ -26,9 +26,6 @@
 [![](https://img.shields.io/badge/-Pycharm-228B22?style=flat-square&logo=Pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)
 
 
-## Stats :star2:
-<a href="https://github.com/Mengfan-Li/Mengfan-Li">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mengfan-Li&langs_count=10&layout=compact&exclude_repo=Mengfan--Li.github.io&theme=swift" alt="Mengfan-Li's GitHub Stats" /></a>
   
 
 <!--
