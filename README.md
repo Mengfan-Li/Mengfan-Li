@@ -10,7 +10,7 @@
 ## Hi there 👋
 
 - :rocket: I am Mengfan Li (李梦凡), a PhD candidate at Academy of Military Medical Sciences, supervised by Prof. Dongshe Zhao (赵东升), co-advised by Prof. Xiaochen Bo (伯晓晨).
-- :mailbox: If you have any questions, don't hesitate to contact me directly by email. li.mengfan@outlook.com
+- :mailbox: If you have any questions, don't hesitate to contact me directly by email(li.mengfan@outlook.com). 
 
 
 ## Interest & Skill
