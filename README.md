@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-    Talk is cheap. Show me the Code!
+    黄河西来决昆仑，咆哮万里触龙门。
 </h1>
 <div align="center" ><img order-radius="100px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></div>
 <!-- <div align="center" ><img order-radius="100px" src="https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202108300019556.gif"/></div> -->
