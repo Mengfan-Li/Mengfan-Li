@@ -23,7 +23,7 @@
 [![](https://img.shields.io/badge/-LaTex-008B8B?style=flat-square&logo=LaTeX&logoColor=ffffff)](https://www.latex-project.org/)
 [![](https://img.shields.io/badge/-Git-FFA500?style=flat-square&logo=Git&logoColor=ffffff)](https://git-scm.com/)
 [![](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=Markdown&logoColor=ffffff)](https://markdown.com.cn/)
-[![](https://img.shields.io/badge/-Pycharm-228B22?style=flat-square&logo=Pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/)**
+[![](https://img.shields.io/badge/-Pycharm-228B22?style=flat-square&logo=Pycharm&logoColor=ffffff)](https://www.jetbrains.com/pycharm/) **
 
 
   
