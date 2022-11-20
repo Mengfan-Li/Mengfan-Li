@@ -1,6 +1,6 @@
 <!-- 动态打字效果 -->
 <h1 align="center">
-    追风赶月莫停留，平芜尽处是春山。
+    追风赶月莫停留，平芜尽处是春山。  
     Even though the road ahead is long, we must keep pace. Stepping through a barren landscape is a beautiful scenery.
 </h1>
 <div align="center" ><img order-radius="100px" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></div>
