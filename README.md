@@ -16,7 +16,7 @@
 
 ## Interest & Skill 🎓
 
-- ⚡ **I am currently devoted to solving biomedical problems using artificial intelligence technologies, including medical image processing, electrical signal processing for ONT nanopore sequencing, and artificial intelligence algorithm deployment.**
+- ⚡ **I am currently devoted to solving biomedical problems using artificial intelligence technologies, including Third generation sequencing data analysis, and artificial intelligence algorithm deployment.**
 - 🔑 **Languages and Skills:**
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=ffffff)](https://pytorch.org/)
