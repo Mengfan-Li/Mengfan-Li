@@ -10,7 +10,7 @@
 
 ## Hi there 👋
 
-- 🚀 **I am Mengfan Li (李梦凡), a PhD candidate at Academy of Military Medical Sciences, supervised by Prof. Dongsheng Zhao (赵东升), co-advised by Prof. [Xiaochen Bo](https://pubmed.ncbi.nlm.nih.gov/?term=Xiaochen+Bo) (伯晓晨).**
+- 🚀 **I am Mengfan Li (李梦凡), a research assistant at Academy of Military Medical Sciences, supervised by Prof. [Xiaochen Bo](https://pubmed.ncbi.nlm.nih.gov/?term=Xiaochen+Bo) (伯晓晨).**
 - 📫 **If you have any questions, don't hesitate to contact me directly by email(li.mengfan@outlook.com).**
 
 
