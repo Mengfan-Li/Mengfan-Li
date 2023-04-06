@@ -10,7 +10,7 @@
 
 ## Hi there 👋
 
-- 🚀 **I am Mengfan Li (李梦凡), currently a PhD candidate in Biomedical Engineering at the Academy of Military Medical Sciences, Academy of Military Sciences, supervised by Prof. Dongsheng Zhao(赵东升) and Prof. [Xiaochen Bo](https://pubmed.ncbi.nlm.nih.gov/?term=Xiaochen+Bo) (伯晓晨) and Dr. Ming Ni(倪铭).**
+- 🚀 **I am Mengfan Li (李梦凡), currently a PhD candidate in Biomedical Engineering at the Academy of Military Medical Sciences, Academy of Military Sciences(军事科学院，军事医学研究院), supervised by Prof. Dongsheng Zhao(赵东升) and Prof. [Xiaochen Bo](https://pubmed.ncbi.nlm.nih.gov/?term=Xiaochen+Bo) (伯晓晨) and Dr. Ming Ni(倪铭).**
 - 📫 **If you have any questions, don't hesitate to contact me directly by email(li.mengfan@outlook.com).**
 
 
