@@ -10,13 +10,13 @@
 
 ## Hi there 👋
 
-- 🚀 **I am Mengfan Li (李梦凡), a research assistant at Academy of Military Medical Sciences, supervised by Prof. [Xiaochen Bo](https://pubmed.ncbi.nlm.nih.gov/?term=Xiaochen+Bo) (伯晓晨).**
+- 🚀 **I am Mengfan Li (李梦凡), currently a PhD candidate in Biomedical Engineering at the Academy of Military Medical Sciences, Academy of Military Sciences, supervised by Prof. Dongsheng Zhao(赵东升) and Prof. [Xiaochen Bo](https://pubmed.ncbi.nlm.nih.gov/?term=Xiaochen+Bo) (伯晓晨) and Dr. Ming Ni(倪铭).**
 - 📫 **If you have any questions, don't hesitate to contact me directly by email(li.mengfan@outlook.com).**
 
 
 ## Interest & Skill 🎓
 
-- ⚡ **I am currently devoted to solving biomedical problems using artificial intelligence technologies, including Third generation sequencing data analysis, and artificial intelligence algorithm deployment.**
+- ⚡ **My current research is focused on artificial intelligence processing of ONT nanopore sequencing data, medical image analysis and engineering of bioinformatics.**
 - 🔑 **Languages and Skills:**
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=ffffff)](https://pytorch.org/)
