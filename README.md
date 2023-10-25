@@ -1,3 +1,4 @@
+<!--
 <!-- 动态打字效果 -->
 <h1 align="center">
     追风赶月莫停留，平芜尽处是春山。  <br />
@@ -41,4 +42,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+-->
