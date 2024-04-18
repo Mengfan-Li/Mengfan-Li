@@ -7,13 +7,9 @@
 
 ## Hi there 👋
 
-- 🚀 **I am Mengfan Li (李梦凡), currently a PhD candidate in Biomedical Engineering at the Academy of Military Medical Sciences, Academy of Military Sciences(军事科学院，军事医学研究院), supervised by Prof. Dongsheng Zhao(赵东升) and Prof. [Xiaochen Bo](https://pubmed.ncbi.nlm.nih.gov/?term=Xiaochen+Bo) (伯晓晨) and Dr. Ming Ni(倪铭).**
-- 📫 **If you have any questions, don't hesitate to contact me directly by email(li.mengfan@outlook.com).**
+**I am Mengfan Li (李梦凡), currently a PhD candidate in Biomedical Engineering at the Academy of Military Medical Sciences, Academy of Military Sciences(军事科学院，军事医学研究院), supervised by Prof. Dongsheng Zhao(赵东升) and Prof. [Xiaochen Bo](https://pubmed.ncbi.nlm.nih.gov/?term=Xiaochen+Bo) (伯晓晨) and Dr. Ming Ni(倪铭). I graduated with a Master's degree in [Multimedia Communications](https://www.xjtlu.edu.cn/en/study/masters/multimedia-telecommunications) from [School of Advanced Technology](https://www.xjtlu.edu.cn/en/study/departments/school-of-advanced-technology), [Xi’an Jiaotong-Liverpool University](https://www.xjtlu.edu.cn/en)(西交利物浦大学智能工程学院), supervised by Prof. [Fei Ma(马飞)](https://scholar.xjtlu.edu.cn/en/persons/FeiMa) and Dr. [Kyeong Soo Kim](https://scholar.xjtlu.edu.cn/en/persons/KyeongsooKim).**
+**My current research is focued on deep learning, computational biology, and medical image analysis. If you want to have any academic collaboration or need any assistance, please feel free to email me at [li.mengfan@outlook.com](mailto:li.mengfan@outlook.com).**
 
-
-## Interest & Skill 🎓
-
-- ⚡ **My current research is focused on artificial intelligence processing of ONT nanopore sequencing data, medical image analysis and engineering of bioinformatics.**
 - 🔑 **Languages and Skills:**
 [![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)](https://www.python.org/)
 [![](https://img.shields.io/badge/-Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=ffffff)](https://pytorch.org/)
